@@ -1,0 +1,4 @@
+title: Trying Github # The top-level website title
+description: what works and does not work # A tagline that usually appears in your site header
+
+remote_theme: pages-themes/cayman@v0.2.0 # Establishes a theme
